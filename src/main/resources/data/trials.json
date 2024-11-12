@@ -1,0 +1,253 @@
+{"trials":[
+  {
+    "id": "0001",
+    "title": "clinical trial title one",
+    "status": "Active",
+    "minimumAge": "18",
+    "maximunAge": "111",
+    "startDate": "01/01/2024",
+    "endDate": "01/10/2024",
+    "participantCount": "75"
+  },
+  {
+    "id": "0002",
+    "title": "clinical trial title two",
+    "status": "Active",
+    "minimumAge": "18",
+    "maximunAge": "111",
+    "startDate": "01/01/2024",
+    "endDate": "01/10/2024",
+    "participantCount": "75"
+  }
+,
+  {
+    "id": "0003",
+    "title": "clinical trial title three",
+    "status": "Inactive",
+    "minimumAge": "18",
+    "maximunAge": "111",
+    "startDate": "01/11/2023",
+    "endDate": "01/10/2024",
+    "participantCount": "75"
+  },
+  {
+    "id": "0004",
+    "title": "clinical trial title four",
+    "status": "Active",
+    "minimumAge": "18",
+    "maximunAge": "111",
+    "startDate": "01/01/2024",
+    "endDate": "01/10/2024",
+    "participantCount": "75"
+  },
+  {
+    "id": "0005",
+    "title": "clinical trial title five",
+    "status": "Active",
+    "minimumAge": "18",
+    "maximunAge": "111",
+    "startDate": "01/01/2024",
+    "endDate": "01/10/2024",
+    "participantCount": "75"
+  },
+  {
+    "id": "0006",
+    "title": "clinical trial title six",
+    "status": "Inctive",
+    "minimumAge": "18",
+    "maximunAge": "111",
+    "startDate": "01/01/2024",
+    "endDate": "01/10/2024",
+    "participantCount": "19"
+  },
+  {
+    "id": "0007",
+    "title": "clinical trial title seven",
+    "status": "Active",
+    "minimumAge": "18",
+    "maximunAge": "111",
+    "startDate": "01/01/2024",
+    "endDate": "01/10/2024",
+    "participantCount": "75"
+  },
+  {
+    "id": "0008",
+    "title": "clinical trial title eight",
+    "status": "Active",
+    "minimumAge": "18",
+    "maximunAge": "111",
+    "startDate": "01/01/2024",
+    "endDate": "01/10/2024",
+    "participantCount": "75"
+  },
+  {
+    "id": "0009",
+    "title": "clinical trial title nine",
+    "status": "Active",
+    "minimumAge": "18",
+    "maximunAge": "111",
+    "startDate": "01/01/2024",
+    "endDate": "01/10/2024",
+    "participantCount": "75"
+  },
+  {
+    "id": "0010",
+    "title": "clinical trial title ten",
+    "status": "Active",
+    "minimumAge": "18",
+    "maximunAge": "111",
+    "startDate": "01/01/2024",
+    "endDate": "01/10/2024",
+    "participantCount": "75"
+  },
+  {
+    "id": "0011",
+    "title": "clinical trial title eleven",
+    "status": "Active",
+    "minimumAge": "18",
+    "maximunAge": "111",
+    "startDate": "01/01/2024",
+    "endDate": "01/10/2024",
+    "participantCount": "75"
+  },
+  {
+    "id": "0012",
+    "title": "clinical trial title twelve",
+    "status": "Active",
+    "minimumAge": "18",
+    "maximunAge": "111",
+    "startDate": "01/01/2024",
+    "endDate": "01/10/2024",
+    "participantCount": "75"
+  },
+  {
+    "id": "0013",
+    "title": "clinical trial title thirteen",
+    "status": "Active",
+    "minimumAge": "18",
+    "maximunAge": "111",
+    "startDate": "01/01/2024",
+    "endDate": "01/10/2024",
+    "participantCount": "75"
+  },
+  {
+    "id": "0014",
+    "title": "clinical trial title fourteen",
+    "status": "Active",
+    "minimumAge": "18",
+    "maximunAge": "111",
+    "startDate": "01/01/2024",
+    "endDate": "01/10/2024",
+    "participantCount": "75"
+  },
+  {
+    "id": "0015",
+    "title": "clinical trial title fifteen",
+    "status": "Active",
+    "minimumAge": "18",
+    "maximunAge": "111",
+    "startDate": "01/01/2024",
+    "endDate": "01/10/2024",
+    "participantCount": "75"
+  },
+  {
+    "id": "0016",
+    "title": "clinical trial title sixteen",
+    "status": "Active",
+    "minimumAge": "18",
+    "maximunAge": "111",
+    "startDate": "01/01/2024",
+    "endDate": "01/10/2024",
+    "participantCount": "75"
+  },
+  {
+    "id": "0017",
+    "title": "clinical trial title seventeen",
+    "status": "Active",
+    "minimumAge": "18",
+    "maximunAge": "111",
+    "startDate": "01/01/2024",
+    "endDate": "01/10/2024",
+    "participantCount": "75"
+  },
+  {
+    "id": "0018",
+    "title": "clinical trial title eighteen",
+    "status": "Active",
+    "minimumAge": "18",
+    "maximunAge": "111",
+    "startDate": "01/01/2024",
+    "endDate": "01/10/2024",
+    "participantCount": "75"
+  },
+  {
+    "id": "0019",
+    "title": "clinical trial title nineteen",
+    "status": "Inactive",
+    "minimumAge": "18",
+    "maximunAge": "111",
+    "startDate": "01/01/2024",
+    "endDate": "01/10/2024",
+    "participantCount": "19"
+  },
+  {
+    "id": "0020",
+    "title": "clinical trial title twenty",
+    "status": "Active",
+    "minimumAge": "18",
+    "maximunAge": "111",
+    "startDate": "01/01/2024",
+    "endDate": "01/10/2024",
+    "participantCount": "75"
+  },
+  {
+    "id": "0021",
+    "title": "clinical trial title twenty one",
+    "status": "Active",
+    "minimumAge": "18",
+    "maximunAge": "30",
+    "startDate": "17/01/2024",
+    "endDate": "25/10/2024",
+    "participantCount": "71"
+  },
+  {
+    "id": "0022",
+    "title": "clinical trial title twenty two",
+    "status": "Inactive",
+    "minimumAge": "18",
+    "maximunAge": "111",
+    "startDate": "01/01/2024",
+    "endDate": "01/10/2024",
+    "participantCount": "75"
+  },
+  {
+    "id": "0023",
+    "title": "clinical trial title twenty three",
+    "status": "Completed",
+    "minimumAge": "18",
+    "maximunAge": "111",
+    "startDate": "01/01/2024",
+    "endDate": "01/10/2024",
+    "participantCount": "43"
+  },
+  {
+    "id": "0024",
+    "title": "clinical trial title twenty four",
+    "status": "Inactive",
+    "minimumAge": "18",
+    "maximunAge": "111",
+    "startDate": "01/01/2024",
+    "endDate": "01/10/2024",
+    "participantCount": "15"
+  },
+  {
+    "id": "0025",
+    "title": "clinical trial title twenty five",
+    "status": "Active",
+    "minimumAge": "18",
+    "maximunAge": "111",
+    "startDate": "01/04/2024",
+    "endDate": "01/10/2024",
+    "participantCount": "23"
+  }
+]}
